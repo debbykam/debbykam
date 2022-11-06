@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Debby Kaminer, I am a Data Analyst/BI developer 📊💭
+My name is Debby Kaminer, I am a BI Developer 📊💭
 
 - 🔎 I’m currently searching for a job oportunity
 - 🌱 I'm imporving my skills from day to day.
