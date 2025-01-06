@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Debby Kaminer, I am a BI Developer 📊💭
+My name is Debby Kaminer, I am a Data Engineer 📊💭
 
 - 🔎 I’m currently searching for a job oportunity
-- 🌱 I'm imporving my skills from day to day.
+- 🌱 I'm skilled with Backend knowledge as well
 - 📫 How to reach me: ![LinkedIn][1.2] LinkedIn, 📱 054-7775265
 - ⚡ Fun fact: I made Alyah from Mexico 🛫
 
